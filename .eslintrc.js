@@ -16,4 +16,4 @@ module.exports = {
     "react/jsx-uses-vars": "error",
     "comma-dangle": ["error", "always-multiline"],
   }
-};
+}

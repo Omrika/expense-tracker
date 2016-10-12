@@ -11,7 +11,7 @@ const HomePage = () => (
     <Navbar inverse className="navbar-default navbar-static-top navbar-semi-transparent">
       <Navbar.Header>
         <Navbar.Brand>
-          <span className="navbar-title">Kingston</span>
+          <span className="navbar-title">TrackerX</span>
         </Navbar.Brand>
         <Navbar.Toggle />
       </Navbar.Header>
